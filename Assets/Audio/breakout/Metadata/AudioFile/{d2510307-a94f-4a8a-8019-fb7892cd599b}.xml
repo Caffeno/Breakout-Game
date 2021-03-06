@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d2510307-a94f-4a8a-8019-fb7892cd599b}">
+		<property name="assetPath">
+			<value>Breakout - shaker.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>66.644240362811786</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e41d2c1c-a489-4104-9b05-478b9bcbb43b}</destination>
+		</relationship>
+	</object>
+</objects>

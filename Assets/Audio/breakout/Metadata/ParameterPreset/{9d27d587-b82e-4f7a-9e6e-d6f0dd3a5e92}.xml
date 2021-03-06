@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{9d27d587-b82e-4f7a-9e6e-d6f0dd3a5e92}">
+		<property name="name">
+			<value>Bricks Broke</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7cefefb0-2afd-48ee-9aee-0f5f9b88a82d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0b1d0339-a95c-4a5e-bee4-e80c58745648}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0b1d0339-a95c-4a5e-bee4-e80c58745648}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
